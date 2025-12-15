@@ -1,0 +1,16 @@
+.About{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Pro{
+    color: rebeccapurple;
+    font-size: 33px;
+}
+
+.Hoch{
+    color: cadetblue;
+    font-size: 23px;
+}
